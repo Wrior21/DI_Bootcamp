@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/146/911/HD-wallpaper-blue-abstract-waves-creative-blue-wavy-background-blue-backgrounds-abstract-waves-waves-textures.jpg)
+}
+
+
+#cat {
+   border:2px double orange;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 100px;
+   width: 100px;
+}

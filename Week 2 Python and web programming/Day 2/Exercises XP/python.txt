@@ -1,0 +1,14 @@
+python
+name= 'john Doe'
+if len(name) > 20: 
+    print(f.name '{name}') ismore than20 charcters long') 
+    lentgh_description = 'long'
+elif len(name) > 15:
+    print(f.name '{name}') is more than 15 characters long')
+elif len(name) > 10: 
+    print(f.name '{name}') is more than 10 chars long')
+elif len(name) = 8,9,10:
+     print(f.name '{name}') is equal to 8,9,10 chars semi short')
+else len(name) = short: 
+     print(f.name '{name}') is a short name')
+     
