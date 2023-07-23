@@ -1,0 +1,30 @@
+Daily Challenge Modules
+Last updated  March, 22nd 2023
+
+
+What You Will Learn 
+OOP
+Modules
+
+
+Instructions 
+Using the requests and time modules, create a function which returns the amount of time it takes a webpage to load (how long it takes for a complete response to a request).
+Test your code with multiple sites such as google, ynet, imdb, etc.
+
+
+
+More Info
+Duration (approx)	Difficulty
+30 minutes	⭐
+
+
+
+
+Submit Your Daily Challenge 
+Don’t forget to push to Github
+
+Submit your Daily Challenge to DI Learning
+
+
+Feedback
+Tell us what you thought about the chapter Daily challenge Modules

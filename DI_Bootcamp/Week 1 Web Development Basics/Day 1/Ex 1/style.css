@@ -1,0 +1,14 @@
+#cat {
+   border: 20px double orange; 
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 300px;
+   width:500px;
+}
+
+#myP{
+    background-color: yellow;
+    text-decoration:underline
+}
+

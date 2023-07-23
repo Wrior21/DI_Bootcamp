@@ -1,0 +1,29 @@
+#container{
+    border: 1px solid red;
+    height:600px;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.smallDiv{
+    height:100px;
+    width:100px;
+    margin:5px;
+    background-color: aqua;
+}
+
+#container{
+    border: 1px  solidcolor red; 
+    height: 600px 
+    display:flex;
+    flex-direction: row; 
+    justify-content: flex-start; 
+    align-itms: flex-end; 
+}
+
+.smallDiv[ ]
+
+>smallDiv{ }
+

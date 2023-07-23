@@ -1,0 +1,49 @@
+Timed Challenge #1
+Last updated  March, 22nd 2023
+
+
+Reverse The Sentence
+Write a program to reverse the sentence wordwise.
+
+Input
+You have entered a wrong domain
+Output
+domain wrong a entered have You
+
+
+
+
+You have 30 minutes to finish this challenge 
+
+
+
+
+
+
+
+
+Let’s start NOW !
+
+Here is the starter python code 
+
+REverseinp= raw_input()
+
+
+#write down your logic here 
+
+
+
+# 
+
+
+print(reversed) 
+
+
+
+
+Submit Your Exercises 
+Don’t forget to push to Github
+
+More Info
+Duration (approx)
+30 minutes

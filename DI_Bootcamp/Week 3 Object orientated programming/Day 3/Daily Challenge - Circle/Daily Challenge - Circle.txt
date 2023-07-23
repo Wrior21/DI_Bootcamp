@@ -1,0 +1,37 @@
+Daily Challenge - Circle
+Last updated  March, 22nd 2023
+
+
+What You Will Learn 
+OOP dunder methods
+
+
+Instructions 
+The goal is to create a class that represents a simple circle.
+A Circle can be defined by either specifying the radius or the diameter.
+The user can query the circle for either its radius or diameter.
+
+Other abilities of a Circle instance
+
+Compute the circle’s area
+Print the attributes of the circle - use a dunder method
+Be able to add two circles together - use a dunder method
+Be able to compare two circles to see which is bigger - use a dunder method
+Be able to compare two circles and see if there are equal - use a dunder method
+Be able to put them in a list and sort them
+Bonus (not mandatory)  Install the Turtle module, and draw the sorted circles
+
+
+More Info
+Duration (approx)	Difficulty
+ 1 hour	⭐
+
+
+Submit Your Daily Challenge 
+Don’t forget to push to Github
+
+Submit your Daily Challenge to DI Learning
+
+
+Feedback
+Tell us what you thought about the chapter Daily Challenge - Circle

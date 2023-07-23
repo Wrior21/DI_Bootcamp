@@ -1,0 +1,17 @@
+table,td,th{
+    border:1px solid black;
+}
+
+#lion { 
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px ;
+    width: 100px ; */
+   
+    text-align: center;
+}
+img{
+    border: 20px double rgb(16, 10, 181); 
+}
+
